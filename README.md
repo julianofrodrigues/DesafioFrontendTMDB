@@ -26,14 +26,20 @@
   Há duas maneiras de usar o servidor: </br>
 
   1 - Configurando o backend no seguinte link: https://github.com/julianofrodrigues/DesafioBackendTMDB</br>
-  2 - Usando o deploy do servidor que se encontra no EC2 da AWS com o endereço: http://54.224.97.193:3333/ (Caso não queira configurar o backend na sua máquina)
+  2 - Usando o deploy do servidor que se encontra no heroku: https://julianotmdbapi.herokuapp.com/  (Caso não queira configurar o backend na sua máquina)
 
 ### 2 - Variáveis de ambiente
 Para executar o projeto, primeiro é preciso configurar o .env
 
 Crie o arquivo .env, logo em seguida, coloque as informações necessarias que são:
     
-    - REACT_APP_API_URL = É o endereço do servidor local ou da AWS
+    - REACT_APP_API_URL = É o endereço do servidor local ou do heroku
+    Exemplo: 
+
+      REACT_APP_API_URL="https://julianotmdbapi.herokuapp.com/"
+      Ou
+      REACT_APP_API_URL="http://localhost:3333/"
+
       
 ### 3 - Instalando e Executando
 Foi utilizado o gerenciador de bibliotecas yarn neste projeto, então:
