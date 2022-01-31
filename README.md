@@ -49,7 +49,9 @@ Foi utilizado o gerenciador de bibliotecas yarn neste projeto, então:
 ```
 Pronto, divirtam-se! <br>
 
-<strong> Obs: </strong> Caso queira ver a aplicação funcionando, se encontra aqui: https://desafio-frontend-tmdb-9tsqau41q-julianofrodrigues.vercel.app/
+<strong> Obs: </strong> 
+ - Caso queira ver a aplicação funcionando, se encontra aqui: https://desafio-frontend-tmdb-9tsqau41q-julianofrodrigues.vercel.app/
+ - Pra favoritar algum filme, basta clicar no coraçãozinho que se encontra na tela de detalhes.
   
 Criado por:<br>
 Juliano Ferreira Rodrigues
