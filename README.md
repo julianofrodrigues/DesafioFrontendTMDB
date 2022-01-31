@@ -48,6 +48,8 @@ Foi utilizado o gerenciador de bibliotecas yarn neste projeto, então:
   yarn dev // Executar o projeto
 ```
 Pronto, divirtam-se! <br>
+
+<strong> Obs: </strong> Caso queira ver a aplicação funcionando, se encontra aqui: https://desafio-frontend-tmdb-9tsqau41q-julianofrodrigues.vercel.app/
   
 Criado por:<br>
 Juliano Ferreira Rodrigues
