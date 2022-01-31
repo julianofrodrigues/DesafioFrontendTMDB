@@ -33,7 +33,7 @@ Para executar o projeto, primeiro é preciso configurar o .env
 
 Crie o arquivo .env, logo em seguida, coloque as informações necessarias que são:
     
-    - API_URL = É o endereço do servidor local ou da AWS
+    - REACT_APP_API_URL = É o endereço do servidor local ou da AWS
       
 ### 3 - Instalando e Executando
 Foi utilizado o gerenciador de bibliotecas yarn neste projeto, então:

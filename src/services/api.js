@@ -1,8 +1,8 @@
 import axios from 'axios';
-import  env  from  "react-dotenv";
+const { REACT_APP_API_URL } = process.env
 
 const api = axios.create({
-    baseURL: `${env.API_URL}`
+    baseURL: `${REACT_APP_API_URL}`
 });
 
 export default api;
