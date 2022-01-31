@@ -23,8 +23,9 @@
    
 ## Executando o projeto  
 ### 1 - Configurar o Backend
-  Há duas maneiras de usar o servidor:
-  1 - Configurando o backend no seguinte link: https://github.com/julianofrodrigues/DesafioBackendTMDB
+  Há duas maneiras de usar o servidor: </br>
+
+  1 - Configurando o backend no seguinte link: https://github.com/julianofrodrigues/DesafioBackendTMDB</br>
   2 - Usando o deploy do servidor que se encontra no EC2 da AWS com o endereço: http://54.224.97.193:3333/ (Caso não queira configurar o backend na sua máquina)
 
 ### 2 - Variáveis de ambiente
